@@ -232,7 +232,7 @@ Experiment3 which involves working with two distinct datasets: one on vision (An
 
 ## Author  
 
-- [Sriya]  
+- Sriya  
 ---
 
 ## Notes  
